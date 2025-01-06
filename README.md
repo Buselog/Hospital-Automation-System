@@ -8,5 +8,5 @@ Veriler ADO.NET veri erişim teknolojisi ile programa işlenmiştir.
 Otomasyon ile ilgili tüm kodlar, yorum satırlarıyla beraber detaylıca ele alınmıştır.
 
 
-Veritabanı şeması hastaneotomasyonudatabase.sql dosyasında bulunmaktadır. 
+Veritabanı şeması ➡️[hastaneotomasyonudatabase.sql](https://github.com/Buselog/Hospital-Automation-System/blob/main/hastaneotomasyonudatabase.sql) dosyasında bulunmaktadır. 
 Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabilirsiniz.
