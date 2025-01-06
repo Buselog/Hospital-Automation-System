@@ -1,4 +1,4 @@
-#Hastane Yönetimi Otomasyonu 🚀
+# Hastane Yönetim Otomasyonu 🚀
 
 C# ile geliştirilmiş bir masaüstü uygulaması olan hastane otomasyonu, üç farklı rol seçeneğine göre giriş ekranı ve paneller içermektedir.
 
