@@ -14,7 +14,7 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 
 ## Proje Genel Tanıtımı
 
-![Ana Sayfa] <img src="https://github.com/user-attachments/assets/14a245b5-233a-4c59-b05b-e958bdd74876" width="500">
+<img src="https://github.com/user-attachments/assets/14a245b5-233a-4c59-b05b-e958bdd74876" width="600">
 
 3 Farklı giriş seçeneği ile farklı panellere geçiş mevcut. 
 
