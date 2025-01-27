@@ -13,15 +13,19 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 
 -----
 
+
 ## 🩺 Projeye Genel Bakış
+
 
 #### ⚕️ Ana Sayfa
 
 <img src="https://github.com/user-attachments/assets/a54e2f66-721f-4be5-8ac2-233d5c2ce35e"  width:600>
 
+
 ##### 😷 Hasta Kayıt Paneli
 
 <img src="https://github.com/user-attachments/assets/a7a69638-f170-46dd-b17f-f9f706ddfed9"  width:600>
+
 
 ##### 😷 Hasta Giriş Paneli
 
@@ -32,18 +36,23 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 
 <img src="https://github.com/user-attachments/assets/c39d50e3-2f78-4374-b14b-919541e7b466"  width:600>
 
+
 ##### 😷 Hasta İşlem Paneli (Alınan Randevuyu Alınan Randevular Listesine Atama)
 <img src="https://github.com/user-attachments/assets/42de376d-f2d1-4beb-bb5e-9f3db820fc88"  width:600>
+
 
 ##### 😷 Hasta Bilgilerini Düzenleme Paneli 
 <img src="https://github.com/user-attachments/assets/4916f3c4-46f5-4954-bad6-3748e82c68ea"  width:600>
 
+
 -----
+
 
 
 #### 🧑🏻‍⚕️ Doktor Giriş Paneli 
 
 <img src="https://github.com/user-attachments/assets/b85c0087-2a48-4c46-9894-4fbc5f7def02"  width:600>
+
 
 
 ##### 🧑🏻‍⚕️ Doktor İşlem Sayfası (Kendisi için alınmış randevuların listesi, duyurular, bilgileri düzenleme vs)
@@ -54,6 +63,7 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 ##### 🧑🏻‍⚕️ Duyuru Listesi Sayfası
 
 <img src="https://github.com/user-attachments/assets/3f4b9af9-84c0-47d1-962b-c17ad5afe64e"  width:600>
+
 
 
 ##### 🧑🏻‍⚕️ Duyuru İçeriği Detaylı Gösterme (Cell Double Click)
