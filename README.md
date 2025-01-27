@@ -15,7 +15,7 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 
 ## ☄️ Projeye Genel Bakış
 
-###### Ana Sayfa
+##### Ana Sayfa
 
 <img src="https://github.com/user-attachments/assets/a54e2f66-721f-4be5-8ac2-233d5c2ce35e"  width:700>
 
@@ -23,7 +23,7 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 
 <img src="https://github.com/user-attachments/assets/a7a69638-f170-46dd-b17f-f9f706ddfed9"  width:700>
 
-###### Hasta Giriş Paneli
+##### Hasta Giriş Paneli
 
 <img src="https://github.com/user-attachments/assets/cacf1296-5d4c-4630-b65b-194cb9fae74c"  width:700>
 
@@ -41,7 +41,7 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 -----
 
 
-###### Doktor Giriş Paneli 
+##### Doktor Giriş Paneli 
 
 <img src="https://github.com/user-attachments/assets/b85c0087-2a48-4c46-9894-4fbc5f7def02"  width:700>
 
@@ -61,9 +61,39 @@ Projeyi çalıştırmak için SQL scriptini bir veritabanında çalıştırabili
 <img src="https://github.com/user-attachments/assets/03aa0dff-77d8-4d1b-a1e8-31705a0f64d2"  width:700>
 
 
-###### Doktor Bilgilerini Düzenleme İşlemi 
+###### Doktor Bilgilerini Düzenleme Paneli
 
 <img src="https://github.com/user-attachments/assets/80b32465-959f-46e6-8f3c-c21681f0549a"  width:700>
+
+
+-----
+
+
+##### Sekreter Giriş Paneli
+
+<img src="https://github.com/user-attachments/assets/64941510-218e-4acf-9845-194d7f234dcb"  width:700>
+
+
+##### Sekreter İşlem Paneli (Duyuru Oluşturma, Branş ve Doktor Listeleme, Müsait Randevu Oluşturma)
+
+<img src="https://github.com/user-attachments/assets/903a2e16-5e44-473d-b43d-eb5fc9165d84"  width:700>
+
+
+##### Sekreter Paneli, Doktor Ekleme, Silme ve Güncelleme Yetkileri
+
+<img src="https://github.com/user-attachments/assets/162faf4e-5767-44c5-b3cf-029909cb7761"  width:700>
+
+
+##### Sekreter Paneli, Branş Ekleme, Silme ve Güncelleme Yetkileri
+
+<img src="https://github.com/user-attachments/assets/74af98ac-e2e6-4cc0-966f-a42abb945821"  width:700>
+
+
+##### Sekreter Paneli, Tüm Randevuları Listeleme (Müsait ve alınmış randevular)
+
+<img src="https://github.com/user-attachments/assets/d53463e9-a5c6-41a3-b773-1f89e60270dc"  width:700>
+
+
 
 
 
